@@ -1,0 +1,18 @@
+{
+"name": "sort-module-settings",
+"title": "Sort Module Settings",
+"description": "Sorts the Module Settings window alphabetically",
+"version": "0.1",
+"author": "Eadorin",
+"esmodules": [
+"sort-module-settings.js"
+],
+"compatibleCoreVersion": "0.6.0",
+"minimumCoreVersion": "0.6.0",
+"systems": [
+"dnd5e"
+],
+"manifest": "https://raw.githubusercontent.com/katanacreative/foundry-sort-module-settings/master/module.json",
+"download": "https://github.com/katanacreative.com/foundry-sort-module-settings/archive/master.zip",
+"url": "https://gihub.com/katanacreative/foundry-sort-module-settings
+}
