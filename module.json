@@ -2,7 +2,7 @@
 "name": "sort-module-settings",
 "title": "Sort Module Settings",
 "description": "Sorts the Module Settings window alphabetically",
-"version": "0.1",
+"version": "0.2",
 "author": "Eadorin",
 "esmodules": [
 "main.js"
